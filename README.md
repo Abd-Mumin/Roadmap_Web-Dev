@@ -1,4 +1,4 @@
 # Roadmap_Web-Dev
-This project improved my understanding - through hands-on practical, of HTML (CSS, JS, .JS) and many more web dev tools.
+This project enhanced my understanding of HTML, CSS, JavaScript, and various other web development tools through hands-on practice.
 
 So help me God.
